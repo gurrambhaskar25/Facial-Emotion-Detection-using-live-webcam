@@ -7,6 +7,7 @@ In this project we detect facial expression using keras library
 
             
 
+The dataset link is https://www.kaggle.com/ahmedmoorsy/facial-expression/download
 
 In this dataset we have 7 labels:
 
